@@ -1,8 +1,8 @@
 <!-- GitHub Profile README for jillani-07 -->
 
 <h1 align="center">Hi, I'm Jillani 👋</h1>
-<h3 align="center">Cloud Engineer | Security Enthusiast | Lifelong Learner</h3>
-<p align="center"><em>“Discipline today, impact tomorrow.”</em></p>
+<h3 align="center">Cloud Engineer | Security Enthusiast | Keep Learning, Keep Growing</h3>
+<p align="center"><em>Refine your skills to define yourself.</em></p>
 
 ---
 
