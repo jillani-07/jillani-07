@@ -7,7 +7,7 @@
 ---
 
 ### 👔 About Me
-- Transitioning into Cloud Engineering (after 4+ years in IT Support)
+- Transitioning into Cloud Engineering (after 4+ years in Technical Support)
 - Passionate about cloud security, automation, and inspiring personal growth
 - Freelancing on Upwork to gain real-world experience
 - Outside tech: Fitness, podcasts, and networking at tech events
