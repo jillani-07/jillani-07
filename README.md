@@ -13,13 +13,13 @@ I have hands-on experience working with AWS and GCP, along with tools like Docke
 **Cloud Platforms:**
 
 * AWS (EC2, S3, IAM, VPC)
-* GCP (Compute Engine, Cloud Run, Cloud SQL)
+* GCP (Compute Engine, Cloud Run, Cloud SQL, IAM, Cloud Storage)
 
 **DevOps & Tools:**
 
 * Docker
 * GitHub Actions / GitLab CI/CD
-* Terraform (Basics)
+* Terraform
 * Linux
 
 **Other Skills:**
