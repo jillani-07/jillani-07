@@ -1,28 +1,93 @@
-<!-- GitHub Profile README for jillani-07 -->
+# Hi, I'm Jillani Ansari 👋
 
-<h1 align="center">Hi, I'm Jillani 👋</h1>
-<h3 align="center">Cloud Engineer | Keep Learning, Keep Growing</h3>
-<p align="center"><em>Refine your skills to define yourself.</em></p>
+## 🚀 Cloud & DevOps Engineer
 
----
+I have 4.2 years of experience in IT support and operations, and I am now focused on building and deploying cloud-based applications using modern DevOps practices.
 
-### 👔 About Me
-- Transitioning into Cloud Engineering (after 4+ years in Technical Support)
-- Passionate about cloud, Security automation, and inspiring personal growth
-- Freelancing on Upwork to gain real-world experience
-- Outside tech: Fitness, podcasts, and networking at tech events
+I have hands-on experience working with AWS and GCP, along with tools like Docker, CI/CD pipelines, and Terraform. I focus on building real-world projects that demonstrate scalable, automated, and production-ready systems.
 
 ---
 
+## 🔧 Tech Stack
 
+**Cloud Platforms:**
+
+* AWS (EC2, S3, IAM, VPC)
+* GCP (Compute Engine, Cloud Run, Cloud SQL)
+
+**DevOps & Tools:**
+
+* Docker
+* GitHub Actions / GitLab CI/CD
+* Terraform (Basics)
+* Linux
+
+**Other Skills:**
+
+* Networking (Basics)
+* Scripting (Bash)
+* Git & GitHub
 
 ---
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jillani05)
+## 📦 Projects
+
+### 🔹 Nexus Commerce (GCP)
+
+Production-ready e-commerce platform deployed on GCP using:
+
+* Cloud Run (containerized deployment)
+* Cloud SQL (PostgreSQL)
+* Docker
+* GitLab CI/CD
+* Secret Manager
+
+👉 Focus: Scalable deployment & CI/CD automation
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jillani-07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### 🔹 SkyCommerce (AWS)
+
+Full MERN e-commerce application with DevOps pipeline:
+
+* AWS (EC2 / ECS)
+* Docker
+* Terraform
+* GitHub Actions
+* MongoDB
+
+👉 Focus: End-to-end deployment & infrastructure automation
+
+---
+
+### 🔹 Static Website Deployment (AWS)
+
+* EC2 + Nginx setup
+* S3 static hosting
+* AWS CLI automation
+
+👉 Focus: Basic cloud hosting & web server setup
+
+---
+
+## 📈 What I'm Currently Focused On
+
+* Container-based deployments (Docker)
+* CI/CD automation
+* Infrastructure as Code (Terraform)
+* Multi-cloud architecture (AWS + GCP)
+
+---
+
+## 🤝 Let's Connect
+
+* LinkedIn: https://linkedin.com/in/jillani05
+* Email: [jillaniiant2015@gmail.com](mailto:jillaniiant2015@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I started from IT support, and now I enjoy building and automating cloud infrastructure systems.
+
+---
