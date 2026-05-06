@@ -82,7 +82,6 @@ Full MERN e-commerce application with DevOps pipeline:
 ## 🤝 Let's Connect
 
 * LinkedIn: https://linkedin.com/in/jillani05
-* Email: [jillaniiant2015@gmail.com](mailto:jillaniiant2015@gmail.com)
 
 ---
 
