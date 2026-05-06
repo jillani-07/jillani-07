@@ -1,6 +1,6 @@
 # Hi, I'm Jillani Ansari 👋
 
-## 🚀 Cloud & DevOps Engineer
+## 🚀 Cloud DevOps Engineer
 
 I have 4.2 years of experience in IT support and operations, and I am now focused on building and deploying cloud-based applications using modern DevOps practices.
 
