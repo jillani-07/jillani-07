@@ -1,11 +1,46 @@
 # Hi, I'm Jillani Ansari 👋
 
-Cloud & DevOps Engineer — AWS · GCP · Docker · CI/CD  
-4+ years in IT Operations with hands-on experience in cloud and DevOps projects.
+Cloud & DevOps Engineer | AWS | GCP | Docker | CI/CD | Linux | Terraform
 
----
+Experienced IT operations professional transitioning into Cloud & DevOps with 4+ years of technical support and operations experience. Skilled in building hands-on cloud infrastructure projects across AWS and GCP with focus on automation, containerization, CI/CD pipelines, Linux administration, and cloud networking.
 
-## About Me
+## 🚀 What I’m Working On
+- AWS & GCP cloud infrastructure projects
+- CI/CD automation using GitHub Actions & GitLab CI/CD
+- Dockerized application deployments
+- Infrastructure provisioning with Terraform
+- Linux system administration & troubleshooting
+- Cloud monitoring, networking, and security fundamentals
 
-I started my career in IT support and operations, where I worked on troubleshooting, system support, and day-to-day technical operations for over 4 years.
-After 2022, I transitioned into Cloud and DevOps and started working on hands-on projects across AWS and GCP, focusing on cloud infrastructure, containerization, and CI/CD automation.
+## 🛠️ Tech Stack
+
+### Cloud
+- AWS
+- GCP
+- Azure Fundamentals
+
+### DevOps & Automation
+- Docker
+- GitHub Actions
+- GitLab CI/CD
+- Terraform (Basic)
+
+### OS & Networking
+- Linux
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+
+### Version Control
+- Git
+- GitHub
+
+## 📌 Featured Projects
+- AWS 3-Tier Architecture Deployment
+- Dockerized Web Application Deployment
+- CI/CD Pipeline using GitHub Actions
+- Terraform AWS Infrastructure Automation
+- GCP Load Balancer & Compute Engine Setup
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/jillani05
