@@ -1,11 +1,12 @@
-# Hi, I'm Jillani Ansari 👋
+Hi, I'm Jillani Ansari 👋
 
 Cloud & DevOps Engineer | AWS | GCP | Docker | CI/CD | Linux | Terraform
 
-Experienced IT operations professional with 4+ years of technical support and operations experience, currently focused on Cloud Infrastructure and DevOps engineering across AWS and GCP environments.
+Cloud & DevOps Engineer with hands-on experience in AWS, GCP, Docker, CI/CD pipelines, Linux administration, and cloud infrastructure deployments through freelance and personal implementation projects, backed by a strong operational and troubleshooting foundation built through 4.2 years of experience in IT support and technical operations.
 
-Hands-on experience in cloud infrastructure deployments, containerized applications, CI/CD automation, Linux administration, and cloud networking. Continuously building real-world cloud and DevOps projects focused on automation, deployment workflows, troubleshooting, and infrastructure operations.
+Experienced in deploying containerized applications, configuring cloud environments, automating deployment workflows using GitHub Actions and GitLab CI/CD, and troubleshooting infrastructure and application-level issues.
 
+Currently focused on building real-world cloud and DevOps projects involving automation, deployment workflows, infrastructure operations, and cloud-native application deployments across AWS and GCP environments.
 ---
 
 ## 🚀 What I’m Working On
