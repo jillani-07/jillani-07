@@ -25,7 +25,6 @@ Hands-on experience in cloud infrastructure deployments, containerized applicati
 
 * AWS
 * GCP
-* Azure Fundamentals
 
 ### DevOps & Automation
 
