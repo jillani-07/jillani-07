@@ -1,64 +1,42 @@
-Hi, I'm Jillani Ansari 👋
+# Jillani Ansari — Cloud & DevOps Engineer
 
-Cloud & DevOps Engineer | AWS | GCP | Docker | CI/CD | Linux | Terraform
-
-Cloud & DevOps Engineer with hands-on experience in AWS, GCP, Docker, CI/CD pipelines, Linux administration, and cloud infrastructure deployments through freelance and personal implementation projects, backed by a strong operational and troubleshooting foundation built through 4.2 years of experience in IT support and technical operations.
-
-Experienced in deploying containerized applications, configuring cloud environments, automating deployment workflows using GitHub Actions and GitLab CI/CD, and troubleshooting infrastructure and application-level issues.
-
-Currently focused on building real-world cloud and DevOps projects involving automation, deployment workflows, infrastructure operations, and cloud-native application deployments across AWS and GCP environments.
----
-
-## 🚀 What I’m Working On
-
-* AWS & GCP cloud infrastructure projects
-* CI/CD automation using GitHub Actions & GitLab CI/CD
-* Dockerized application deployments
-* Infrastructure provisioning with Terraform
-* Linux system administration & troubleshooting
-* Cloud networking, monitoring, and security fundamentals
+Building and shipping cloud infrastructure on AWS and GCP.
+Focused on automation, containerization, and secure deployments.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Cloud
+**Cloud**
+AWS · GCP
 
-* AWS
-* GCP
+**DevOps**
+Docker · Terraform · GitHub Actions · GitLab CI/CD
 
-### DevOps & Automation
-
-* Docker
-* GitHub Actions
-* GitLab CI/CD
-* Terraform (Basic)
-
-### OS & Networking
-
-* Linux
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-
-### Version Control
-
-* Git
-* GitHub
+**OS & Networking**
+Linux · TCP/IP · DNS · HTTP/HTTPS
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-* AWS 3-Tier Architecture Deployment
-* Dockerized Web Application Deployment
-* CI/CD Pipeline using GitHub Actions
-* Terraform AWS Infrastructure Automation
-* GCP Load Balancer & Compute Engine Setup
+**MediFlow** — Healthtech platform on AWS
+Terraform · Docker · GitHub Actions · EC2 · RDS · ALB · SSM · Secrets Manager
+→ [github.com/jillani-07/mediflow](https://github.com/jillani-07/mediflow)
+→ Live: mediflow-alb-669746895.ap-south-1.elb.amazonaws.com
+
+**Nexus Commerce** — E-commerce platform on GCP
+Terraform · Docker · GitLab CI/CD · Cloud Run · Cloud SQL · Secret Manager
+→ [github.com/jillani-07/nexus-commerce](https://github.com/jillani-07/nexus-commerce)
+→ Live: nexus-frontend-300651311664.europe-west2.run.app
 
 ---
 
-## 📫 Connect With Me
+## Certifications
 
-* LinkedIn: [linkedin.com/in/jillani05](https://www.linkedin.com/in/jillani05)
-* GitHub: [github.com/jillani-07](https://github.com/jillani-07)
+Microsoft Azure Administrator — AZ-104
+AWS Solutions Architect Associate — In Progress
+
+---
+
+[LinkedIn](https://linkedin.com/in/jillani05)
