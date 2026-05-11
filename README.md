@@ -34,8 +34,10 @@ Terraform · Docker · GitLab CI/CD · Cloud Run · Cloud SQL · Secret Manager
 
 ## Certifications
 
-Microsoft Azure Administrator — AZ-104
+## Certifications
+
 AWS Solutions Architect Associate — In Progress
+Microsoft Azure Administrator — AZ-104 ✓
 
 ---
 
