@@ -1,8 +1,6 @@
 # Jillani Ansari — Cloud & DevOps Engineer
 
-Building and shipping cloud infrastructure on AWS and GCP.
-Focused on automation, containerization, and secure deployments.
-
+Building hands-on cloud infrastructure and deployment automation projects on AWS and GCP with a focus on containerization, CI/CD, and secure cloud deployments.
 ---
 
 ## Tech Stack
