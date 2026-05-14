@@ -21,11 +21,9 @@ Linux · TCP/IP · DNS · HTTP/HTTPS
 **MediFlow** — Healthtech platform on AWS
 Terraform · Docker · GitHub Actions · EC2 · RDS · ALB · SSM · Secrets Manager
 → [github.com/jillani-07/mediflow](https://github.com/jillani-07/mediflow)
-→ Live: mediflow-alb-669746895.ap-south-1.elb.amazonaws.com
 
 **Nexus Commerce** — E-commerce platform on GCP
 Terraform · Docker · GitLab CI/CD · Cloud Run · Cloud SQL · Secret Manager
-→ [github.com/jillani-07/nexus-commerce](https://github.com/jillani-07/nexus-commerce)
 → Live: nexus-frontend-300651311664.europe-west2.run.app
 
 ---
