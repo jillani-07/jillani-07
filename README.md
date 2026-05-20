@@ -29,12 +29,4 @@ Terraform · Docker · GitLab CI/CD · Cloud Run · Cloud SQL · Secret Manager
 ---
 
 ## Certifications
-
-## Certifications
-
-AWS Solutions Architect Associate — In Progress
-Microsoft Azure Administrator — AZ-104 ✓
-
----
-
 [LinkedIn](https://linkedin.com/in/jillani05)
